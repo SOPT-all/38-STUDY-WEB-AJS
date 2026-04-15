@@ -1,0 +1,2 @@
+# 38-STUDY-WEB-AJS
+LET'S SOPT 38기 WEB 자바스크립트 스터디
