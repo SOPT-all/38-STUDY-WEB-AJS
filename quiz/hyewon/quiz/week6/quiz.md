@@ -14,9 +14,7 @@
 
 다음 코드에서, `<li>About <span>(new)</span></li>`의 **`(new)` 부분(span)을 클릭**했을 때 콘솔에 출력되는 내용과 이유를 작성하세요.
 
-```html
-Home About (new)
-```
+- About (new)
 
 ```javascript
 const $menu = document.getElementById("menu");
